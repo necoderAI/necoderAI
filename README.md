@@ -1,10 +1,8 @@
 <div align="center" style="font-family: 'Roboto Mono', monospace;">
     <h1 align="center">👋 Hi there!</h1>
-    <div class="image-card" style="overflow: hidden; max-width: 200px; border-radius: 50% 25% 50% 25%; margin: 10vh">
-        <img src="https://media.tenor.com/4VyBGRXi5x0AAAAi/flashyklau-streamer.gif">
-    </div>
-    <a href="https://skillicons.dev" style="display: flex; flex-direction: collumn; margin: 50px; align-self: center; justify-content: center;">
-        <img src="https://skillicons.dev/icons?i=cs,css,js,ts,nodejs,lua,python" />
+    <img src="https://i.imgur.com/2CuEEgc.gif" style="min-width: 100px; max-width: 400px; margin: 5px">
+    <a href="https://skillicons.dev" style="display: flex; flex-direction: collumn; margin: 10px; align-self: center; justify-content: center;">
+    <img src="https://skillicons.dev/icons?i=cs,css,js,ts,nodejs,lua,python" />
     </a>
     <p>
         I'm an software enthusiast who loves creating scripts and bots, always looking for innovative ways to automate tasks and solve problems. I’m proficient in Lua, JavaScript, Python, and C#, and enjoy developing smart solutions with these languages.
